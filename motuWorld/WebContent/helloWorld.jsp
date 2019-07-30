@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hello World - Motu's tutorial</title>
+<title>Hello World - JSP tutorial</title>
 </head>
 <body>
-	<%= "It's MotuWorld!" %>
+	<%= "Hello World!" %>
 </body>
 </html>
